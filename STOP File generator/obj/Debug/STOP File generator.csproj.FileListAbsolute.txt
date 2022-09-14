@@ -1,0 +1,10 @@
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\bin\Debug\STOP File generator.exe.config
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\bin\Debug\STOP File generator.exe
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\bin\Debug\STOP File generator.pdb
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP File generator.csprojAssemblyReference.cache
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP_File_generator.Form1.resources
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP_File_generator.Properties.Resources.resources
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP File generator.csproj.GenerateResource.cache
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP File generator.csproj.CoreCompileInputs.cache
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP File generator.exe
+C:\Users\tepoju.t\source\repos\STOP File generator\STOP File generator\obj\Debug\STOP File generator.pdb
